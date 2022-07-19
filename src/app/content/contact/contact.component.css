@@ -1,0 +1,32 @@
+body{
+    
+    
+    height:70%;
+    width:100%;
+    
+    
+}
+#head{
+    text-align: center;
+    margin-top: 2cm;
+    color: rgb(255, 255, 255);
+}
+
+.formc{
+    margin-left: auto;
+    margin-top: .5cm;
+    width:100%;
+}
+.button{
+    margin-left: 42.5%;
+    margin-top: 1cm;
+    width: 3cm;
+}
+.labelf{
+    margin-left: 22%;
+    height: min-content;
+    margin-top: 2cm;
+    font-size: .5cm;
+    color: rgb(255, 255, 255);
+       
+}

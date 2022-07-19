@@ -1,0 +1,60 @@
+#fb{
+    height: 40px;
+    margin-left: 1cm;
+}
+
+#wh{
+    height: 40px;
+    margin-left: 2cm;
+}
+
+#insta{
+    height: 40px;
+    margin-left: 2cm;
+}
+
+#tw{
+    height: 40px; margin-left: 2cm;
+}
+
+#link{
+    height: 40px; margin-left: 2cm;
+}
+
+#phone{
+    height: 40px; margin-left: 2cm;
+}
+
+#foots{
+    align-items: center;
+    padding:.2cm ;
+    text-align: center;
+   
+    height: 2cm;
+   
+}
+#footf{
+   
+  padding: .3cm;
+  color: aliceblue;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#copy{
+    text-align: center;
+
+}
+
+.footer{
+    
+    position: relative;
+    height: fit-content;
+}
+
+.foot1{
+    margin-top: .3cm;
+}
+.foot2{
+    margin-top: .3cm;
+}
+

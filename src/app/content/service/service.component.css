@@ -1,0 +1,18 @@
+body{
+    
+    
+    height:70%;
+    width:100%;
+    
+    
+}
+
+#head{
+    text-align: center;
+    color: white;
+    margin-top: 2cm;
+}
+.imag{
+    background-size: fill;
+    height: 50%;
+}

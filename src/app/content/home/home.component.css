@@ -1,0 +1,159 @@
+body{
+   image-rendering: auto;
+   background-size: fill;
+   
+}
+bg-image{
+   width: 100%;
+}
+.logo{
+   height: 2cm;
+}
+.sectionhead{
+   font-weight: 700;
+   font-size: 2cm;
+   color: rgba(175, 171, 171, 0.5);
+   margin-top: .5cm;
+   height: fit-content;
+
+
+}
+
+
+.idfirst{
+   margin-top: cm;
+}
+#idpic{
+   margin-left: 38%;
+   margin-top:.5cm ;
+   position: relative;
+   border-radius: 50%;
+   height: 200px;
+   width: 200px;
+   border: 15px solid grey;
+   z-index: 9999;
+   
+}
+#idname{
+   
+  margin-left: 40% ;
+  margin-top: 1cm;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font: bold;
+}
+
+#idb1{
+  margin-left: 6cm;
+}
+#idb2{
+   margin-left: 1.5cm;
+}
+
+
+
+
+
+/* card */
+
+
+.secondsection{
+   
+   height: 80%;
+      
+}
+
+.secondsectionname{
+   font: 1000;
+   font-size: 1cm;
+   text-decoration: underline;color: rgb(108, 106, 106);
+}
+.section2card{
+   height: fit-content;
+   border:15;
+    border-radius: 0.2875rem;
+    display: inline-block;
+    margin-top: 2cm;
+    width: 95%;
+    margin-bottom: 5px;
+    -webkit-box-shadow: 0px 5px 25px 0px rgb(0, 0, 0);
+    box-shadow: 0px 5px 25px 0px rgb(0, 0, 0);
+    
+}
+
+#aboutheadpara{
+   font-style: italic;
+}
+
+#dob{
+   font-weight: 600;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+         /* 3rd section */
+
+.cardname{
+   color: rgb(122, 122, 122);
+   font-size: .7cm;
+   font-weight: 500;
+}
+
+#section3head{
+   margin-left: 38%;
+   font-size: 1.4cm;
+   font-weight: 700;
+   color: rgb(126, 129, 129,.8);
+   margin-top: 1cm;
+   
+}
+
+.section3firstline{
+   margin-top: 1cm;
+}
+.section3nsecondline{
+   margin-top: 1cm;
+}
+
+
+         /* fourth section */
+
+
+.sectionfour{
+   margin-top: 2cm;
+   height: 60%;
+}
+
+.carouselfirst{
+   border-radius: 50%;
+
+}
+.item1{
+   mask: 0.9;
+   background-color: aqua;
+}
+
+.carohead{
+   
+   height:fit-content;
+}
+
+.carop{
+   font-style: italic;
+   font-size: larger;
+   color: black;
+}
+
+.caroname{
+   font-weight: 700;
+    font-size: 1cm; 
+}
+
+#testi{
+   margin-left: 38%;
+   font-size: 1.4cm;
+   font-weight: 700;
+   color: rgb(126, 129, 129,.8);
+
+}
